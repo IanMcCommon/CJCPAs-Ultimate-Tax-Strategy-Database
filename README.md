@@ -15,7 +15,7 @@ This comprehensive encyclopedia provides detailed documentation of tax planning 
 The One Big Beautiful Bill Act, signed July 4, 2025, made sweeping changes to the tax code. Key provisions include:
 
 - **SALT Deduction Cap:** Increased from $10,000 to **$40,000** (2025-2029) with income phase-outs starting at $500,000 AGI
-- **Section 199A QBI Deduction:** Made **permanent** and increased from 20% to **23%**
+- **Section 199A QBI Deduction:** Made **permanent**
 - **Estate/Gift/GST Exemption:** Permanently increased to **$15,000,000** per person ($30M married)
 - **Bonus Depreciation:** Restored to **100%** permanently for property placed in service after January 20, 2025
 - **Individual Tax Brackets:** TCJA rates made **permanent** (top rate remains 37%)
@@ -183,7 +183,7 @@ Each strategy document follows a consistent format:
 
 | Strategy | Priority | Notes |
 |----------|----------|-------|
-| Section 199A | **HIGH** | Now permanent at 23%—maximize annually |
+| Section 199A | **HIGH** | Now permanent at 20%—maximize annually |
 | Bonus Depreciation | **HIGH** | 100% restored—accelerate asset acquisitions |
 | SALT Optimization | **HIGH** | $40K cap through 2029—state planning valuable |
 | Estate Planning | **MODERATE** | $15M permanent—less urgency, still valuable |
@@ -208,7 +208,7 @@ Each strategy document follows a consistent format:
 | Social Security Wage Base | $176,100 |
 | Section 179 Limit | $1,250,000 |
 | SALT Deduction Cap | **$40,000** (2025-2029) |
-| QBI Deduction | **23%** (199A - permanent) |
+| QBI Deduction | **20%** (199A - permanent) |
 | Child Tax Credit | **$2,200** (2025-2028) |
 | Bonus Depreciation | **100%** (permanent) |
 
@@ -269,12 +269,12 @@ Following community feedback, conducted comprehensive review of ALL 85+ strategy
 - `strategies/split-dollar-life-insurance.md` - $15M permanent exemption
 
 **Business Strategy Files Updated:**
-- `strategies/s-corp-reasonable-compensation.md` - 199A now 23% permanent
+- `strategies/s-corp-reasonable-compensation.md` - 199A now 20% permanent
 - `strategies/short-term-rentals.md` - 100% bonus depreciation permanent
 - `strategies/cost-segregation.md` - 100% bonus depreciation permanent
 - `strategies/asset-vs-stock-sales.md` - 37% rate permanent, 100% bonus
-- `strategies/real-estate-professional-status.md` - 199A permanent at 23%
-- `strategies/exit-planning.md` - 199A permanent at 23%
+- `strategies/real-estate-professional-status.md` - 199A permanent at 20%
+- `strategies/exit-planning.md` - 199A permanent at 20%
 
 **Other Files Updated:**
 - `strategies/gilti-planning.md` - Section 250 deduction remains 50% permanent
@@ -286,7 +286,6 @@ Following community feedback, conducted comprehensive review of ALL 85+ strategy
 **Key Changes Across All Files:**
 - Removed all "expires 12/31/2025" and "2026 sunset" language
 - Updated estate exemption from ~$7M to $15M permanent
-- Updated 199A from 20% expiring to 23% permanent
 - Updated bonus depreciation from phasing out to 100% permanent
 - Updated SALT cap from $10K to $40K with phase-out rules
 - Updated all footers to "November 2025 (Post-OBBBA)"
@@ -313,7 +312,7 @@ The One Big Beautiful Bill Act was signed into law on July 4, 2025, making sweep
 | Provision | Previous (TCJA) | Updated (OBBBA) |
 |-----------|-----------------|-----------------|
 | SALT Deduction Cap | $10,000 | **$40,000** (2025-2029) with phase-outs |
-| Section 199A QBI | 20%, expiring 12/31/2025 | **23%, permanent** |
+| Section 199A QBI | 20%, expiring 12/31/2025 | **20%, permanent** |
 | Estate/Gift/GST Exemption | ~$13.99M, sunsetting to ~$7M | **$15M permanent** |
 | Bonus Depreciation | Phasing out (40% in 2025) | **100% permanent** (post 1/20/25) |
 | Individual Tax Brackets | TCJA rates, sunsetting | **TCJA rates permanent** |
@@ -321,7 +320,7 @@ The One Big Beautiful Bill Act was signed into law on July 4, 2025, making sweep
 **Files Updated:**
 - `README.md` - New OBBBA overview section, updated Quick Reference Tables, removed TCJA sunset alerts
 - `strategies/salt-workarounds.md` - $40K cap, phase-out rules, updated calculations
-- `strategies/199a-maximization.md` - 23% permanent rate, updated examples
+- `strategies/199a-maximization.md` - 20% permanent rate, updated examples
 - `strategies/bonus-depreciation.md` - 100% permanent, revised case studies
 - `strategies/lifetime-gift-tax-strategies.md` - $15M permanent exemption
 - `strategies/slats.md` - Updated thresholds and case study
@@ -331,7 +330,7 @@ The One Big Beautiful Bill Act was signed into law on July 4, 2025, making sweep
 **Content Changes:**
 - Removed all "TCJA sunset" urgency messaging
 - Updated all exemption amounts to $15M/$30M
-- Revised calculations to use 23% QBI deduction
+- Revised calculations to use 20% QBI deduction
 - Updated SALT examples with new phase-out rules
 - Changed estate planning thresholds from $27M to $30M (married)
 
