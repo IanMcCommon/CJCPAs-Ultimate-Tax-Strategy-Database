@@ -2,7 +2,7 @@
 
 ## Overview
 
-Bonus depreciation allows businesses to immediately deduct **100%** of the cost of qualifying property in the year it's placed in service. The **One Big Beautiful Bill Act (OBBBA)** of 2025 restored 100% bonus depreciation permanently for property placed in service after January 20, 2025, reversing the TCJA phase-out. This is one of the most powerful tax strategies available, particularly when combined with cost segregation for real estate.
+Bonus depreciation allows businesses to immediately deduct **100%** of the cost of qualifying property in the year it's placed in service. The **One Big Beautiful Bill Act (OBBBA)** of 2025 restored 100% bonus depreciation permanently for property placed in service after January 19, 2025, reversing the TCJA phase-out. This is one of the most powerful tax strategies available, particularly when combined with cost segregation for real estate.
 
 ## Effective Dates & Key Law Changes (OBBBA Update)
 
