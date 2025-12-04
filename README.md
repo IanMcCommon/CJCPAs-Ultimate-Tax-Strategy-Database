@@ -15,9 +15,9 @@ This comprehensive encyclopedia provides detailed documentation of tax planning 
 The One Big Beautiful Bill Act, signed July 4, 2025, made sweeping changes to the tax code. Key provisions include:
 
 - **SALT Deduction Cap:** Increased from $10,000 to **$40,000** (2025-2029) with income phase-outs starting at $500,000 AGI
-- **Section 199A QBI Deduction:** Made **permanent** and increased from 20% to **23%**
+- **Section 199A QBI Deduction:** Made **permanent** at TCJA rate of **20%**
 - **Estate/Gift/GST Exemption:** Permanently increased to **$15,000,000** per person ($30M married)
-- **Bonus Depreciation:** Restored to **100%** permanently for property placed in service after January 20, 2025
+- **Bonus Depreciation:** Restored to **100%** permanently for property placed in service after January 19, 2025
 - **Individual Tax Brackets:** TCJA rates made **permanent** (top rate remains 37%)
 - **Standard Deduction:** TCJA amounts made **permanent**
 - **Child Tax Credit:** Increased to $2,200 per child (2025-2028)
