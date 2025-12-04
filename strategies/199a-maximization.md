@@ -2,13 +2,13 @@
 
 ## Overview
 
-Section 199A provides a deduction of up to **23%** of Qualified Business Income (QBI) from pass-through entities and sole proprietorships. The **One Big Beautiful Bill Act (OBBBA)** of 2025 made this deduction **permanent** and increased it from 20% to 23%, representing one of the most significant tax benefits for business owners.
+Section 199A provides a deduction of up to **20%** of Qualified Business Income (QBI) from pass-through entities and sole proprietorships. The **One Big Beautiful Bill Act (OBBBA)** of 2025 made this deduction **permanent**, representing one of the most significant tax benefits for business owners.
 
 ## Effective Dates & Key Law Changes (OBBBA Update)
 
 | Provision | TCJA (2018-2025) | OBBBA (2025+) |
 |-----------|------------------|---------------|
-| QBI Deduction Rate | 20% | **23%** (permanent) |
+| QBI Deduction Rate | 20% | **20%** (permanent) |
 | Expiration | December 31, 2025 | **None - Permanent** |
 | W-2 Wage/UBIA Limits | Apply above threshold | Apply above threshold |
 | SSTB Rules | Apply above threshold | Apply above threshold |
@@ -17,8 +17,8 @@ Section 199A provides a deduction of up to **23%** of Qualified Business Income 
 
 ## Key Benefits
 
-- **Up to 23% deduction** on qualified business income (increased from 20%)
-- Effective tax rate reduction from 37% to **28.49%** for top earners
+- **Up to 20% deduction** on qualified business income
+- Effective tax rate reduction from 37% to **29.6%** for top earners
 - Available to S corporations, partnerships, LLCs, and sole proprietors
 - **Now permanent**—long-term planning certainty
 - Stacks with other deductions and strategies
@@ -27,7 +27,7 @@ Section 199A provides a deduction of up to **23%** of Qualified Business Income 
 
 ### Basic Calculation (Post-OBBBA)
 **QBI Deduction = Lesser of:**
-1. **23%** of QBI, or
+1. **20%** of QBI, or
 2. Greater of:
    - 50% of W-2 wages paid, or
    - 25% of W-2 wages + 2.5% of UBIA (unadjusted basis of qualified property)
@@ -40,14 +40,6 @@ Section 199A provides a deduction of up to **23%** of Qualified Business Income 
 | MFJ | $383,900 | $383,900 - $483,900 | $483,900 |
 
 *Note: Thresholds are indexed for inflation annually.*
-
-### Impact of 23% vs. 20% Rate
-
-| QBI Amount | Old Deduction (20%) | New Deduction (23%) | Additional Savings (37% rate) |
-|------------|--------------------|--------------------|------------------------------|
-| $200,000 | $40,000 | $46,000 | $2,220 |
-| $500,000 | $100,000 | $115,000 | $5,550 |
-| $1,000,000 | $200,000 | $230,000 | $11,100 |
 
 ## Requirements
 
@@ -236,10 +228,10 @@ Medical practice group with $1,000,000 combined QBI. Three physician partners. T
 **Step 3: Calculate Results**
 - SSTB QBI: $800,000 (limited above threshold)
 - Non-SSTB QBI: $200,000 (fully eligible)
-- Non-SSTB deduction: $200,000 × 23% = $46,000
+- Non-SSTB deduction: $200,000 × 20% = $40,000
 - Assuming adequate W-2 wages/UBIA
 
-**Annual Tax Savings**: $46,000 × 37% = $17,020
+**Annual Tax Savings**: $40,000 × 37% = $14,800
 
 ## Key Tax Code References
 
@@ -247,7 +239,7 @@ Medical practice group with $1,000,000 combined QBI. Three physician partners. T
 - **IRC Section 199A(d)**: Specified Service Trade or Business
 - **Treas. Reg. 1.199A-1 through 1.199A-6**: Detailed regulations
 - **Notice 2019-07**: Real estate rental safe harbor
-- **OBBBA (2025)**: Made permanent at 23% deduction rate
+- **OBBBA (2025)**: Made permanent at 20% deduction rate
 
 ## Related Strategies
 
@@ -258,4 +250,4 @@ Medical practice group with $1,000,000 combined QBI. Three physician partners. T
 ---
 
 *Last Updated: November 2025 (Post-OBBBA)*
-*Section 199A Now Permanent at 23%—Maximize Your QBI Deduction!*
+*Section 199A Now Permanent at 20%—Maximize Your QBI Deduction!*
